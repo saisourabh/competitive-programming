@@ -36,5 +36,5 @@ int main()
      
     printArray(arr, n);
      
-    return 1;
+    return 0;
 }
